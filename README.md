@@ -1,6 +1,5 @@
 # ARP-Based LAN Simulation using Cisco Packet Tracer  
 *Industrial IoT Project – L&T EduTech*
- by Srajit Srivastava
 ---
 
 ##  Problem Statement
